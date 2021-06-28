@@ -1,0 +1,28 @@
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.exe
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.deps.json
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.runtimeconfig.json
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.runtimeconfig.dev.json
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.dll
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\CSharp-Test.pdb
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.AssemblyInfoInputs.cache
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.AssemblyInfo.cs
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.csproj.CoreCompileInputs.cache
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.csproj.CopyComplete
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.dll
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.pdb
+C:\Users\WLB\source\repos\CSharp_REST(WEB API)_JSON\CSharp_REST(WEB API)_JSON\obj\Debug\netcoreapp3.1\CSharp-Test.genruntimeconfig.cache
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.exe
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.deps.json
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.runtimeconfig.json
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.runtimeconfig.dev.json
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.dll
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\CSharp-Test.pdb
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.AssemblyInfoInputs.cache
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.AssemblyInfo.cs
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.csproj.CoreCompileInputs.cache
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.csproj.CopyComplete
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.dll
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.pdb
+C:\Users\WLB\source\repos\CSharp-Test\CSharp-Test\obj\Debug\netcoreapp3.1\CSharp-Test.genruntimeconfig.cache
